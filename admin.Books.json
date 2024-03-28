@@ -1,0 +1,21 @@
+[{
+  "_id": "ObjectId('Book1') ",
+  "name": "Enginerring Mathematics",
+  "year": "1st Sem",
+  "author": "R.K Das",
+  "img": "https://d3i3lzopayriz.cloudfront.net/books/0_front_cover_1660716982.jpg"
+},
+{
+  "_id": "ObjectId('Book2')",
+  "name": "Engineering Physics",
+  "year": "2nd Sem",
+  "author": "V.K Jain",
+  "img": " https://m.media-amazon.com/images/I/51fybioFl+L.jpg"
+},
+{
+  "_id": "ObjectId('Book3')",
+  "name": "Engineering Chemistry",
+  "year": "1st Sem",
+  "author": "R.K Ghosh",
+  "img": "https://m.media-amazon.com/images/I/61GOCXVfisL._AC_UF1000,1000_QL80_.jpg"
+}]
